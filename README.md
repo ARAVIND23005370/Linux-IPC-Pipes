@@ -24,8 +24,8 @@ Testing the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : ARAVIND R
+### REG NO : 212223230019
 
 ### C Program that illustrate communication between two process using unnamed pipes using Linux API system calls:
 ```python
